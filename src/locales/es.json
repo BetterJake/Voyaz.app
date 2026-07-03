@@ -1,0 +1,439 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "trips": "Viajes",
+    "plan_trip": "Planear Viaje",
+    "search": "Buscar destino..."
+  },
+  "hero": {
+    "discover": "Descubre",
+    "the_world": "El Mundo",
+    "tagline": "Vive tu próxima aventura con la guía nativa de IA",
+    "input_dest": "¿A dónde quieres ir?",
+    "input_days": "¿Cuántos días?",
+    "input_budget": "¿Cuál es tu presupuesto?",
+    "explore": "Explorar"
+  },
+  "features": {
+    "era": "La nueva era de los viajes",
+    "redefine_1": "REDEFINE",
+    "redefine_2": "TU VIAJE.",
+    "ai_engine": "Motor de IA activo",
+    "optimizing": "Optimizando la ruta de Tokio...",
+    "create_1": "CREA",
+    "create_2": "TU",
+    "create_3": "VIAJE.",
+    "instant_title": "Generación instantánea",
+    "instant_desc": "Nuestra red neuronal analiza millones de puntos de datos para construir la ruta perfecta en menos de 30 segundos.",
+    "precision_title": "Mapeo de precisión",
+    "precision_desc": "Cada lugar se verifica por coordenadas, horarios de apertura y popularidad local para asegurar un flujo impecable.",
+    "voyages": "Viajes",
+    "precision": "Precisión",
+    "rating": "Calificación",
+    "start_button": "Comienza tu viaje",
+    "demo_button": "Ver demostración"
+  },
+  "footer": {
+    "tagline": "La primera plataforma de descubrimiento nativa de IA del mundo. Planifica, rastrea y vive viajes que coincidan con tu frecuencia única.",
+    "nav_title": "Navegación",
+    "community": "Comunidad",
+    "support_title": "Soporte",
+    "help_center": "Centro de Ayuda",
+    "terms": "Términos de Servicio",
+    "privacy": "Política de Privacidad",
+    "cookies": "Cookies",
+    "email_placeholder": "Correo electrónico",
+    "status": "Estado del sistema: Totalmente operativo",
+    "rights": "© 2025 VOYAZ. Todos los derechos reservados."
+  },
+  "discovery": {
+    "hottest_trips": "Viajes destacados",
+    "days": "Días",
+    "places": "Lugares",
+    "from": "desde"
+  },
+  "countries": {
+    "world": "Red",
+    "network": "Mundial",
+    "tagline": "Destinos seleccionados en todo el mundo, optimizados por IA para tu estilo",
+    "title_countries": "Países",
+    "title_cities": "Ciudades",
+    "exploring": "Explorando {{city}}. Nuestro motor de IA está analizando el pulso local y las gemas ocultas para crear tu día perfecto.",
+    "global_destinations": "Destinos Globales",
+    "explore_country": "Explorar {{country}}",
+    "voyages": "Viajes"
+  },
+  "overlay": {
+    "loading_map": "CARGANDO MAPA DE IA...",
+    "days": "Días",
+    "places": "Lugares",
+    "dna": "DNA del viaje e IA Insights",
+    "energy": "Nivel de energía",
+    "atmosphere": "Atmósfera",
+    "ai_match": "Coincidencia de IA",
+    "itinerary": "Tu itinerario mágico",
+    "day": "Día",
+    "ai_reason": "Razón de IA",
+    "route_overview": "Resumen de la ruta",
+    "ambient": "Sonidos ambientales",
+    "now_playing": "Reproduciendo ahora",
+    "pulse": "Pulso de la ciudad",
+    "real_time": "Estadísticas en tiempo real",
+    "crowd": "Nivel de multitud",
+    "value": "Relación calidad-precio",
+    "excellent": "Excelente",
+    "low": "Bajo",
+    "starting_from": "Desde",
+    "seats_left": "{{count}} Asientos restantes",
+    "open_editor": "Abrir editor de IA",
+    "track": "Seguir viaje",
+    "tracking": "Siguiendo",
+    "book_now": "Reservar ahora",
+    "confirmed": "¡Viaje confirmado!",
+    "confirmed_desc": "Tu viaje a {{dest}} ha sido confirmado.",
+    "back_browsing": "Volver a explorar"
+  },
+  "share": {
+    "title": "Compartir viaje",
+    "visibility": "Visibilidad",
+    "public": "Público",
+    "public_desc": "Cualquiera puede descubrir y copiar este viaje.",
+    "friends": "Amigos",
+    "friends_desc": "Solo tus amigos pueden ver este viaje.",
+    "private": "Privado",
+    "private_desc": "Solo tú y las personas con las que lo compartas.",
+    "actions": "Acciones",
+    "copy_link": "Copiar enlace",
+    "copied": "Copiado",
+    "fork": "Copiar viaje",
+    "fork_success": "¡Viaje copiado con éxito a tu perfil!",
+    "share_friends": "Compartir con amigos",
+    "finding_friends": "Buscando amigos...",
+    "no_friends": "No se encontraron amigos. Conéctate con viajeros para compartir viajes directamente."
+  },
+  "settings": {
+    "title": "Configuración",
+    "subtitle": "Personaliza tu experiencia de viaje",
+    "need_help": "¿Necesitas ayuda?",
+    "language": "Idioma",
+    "language_desc": "Selecciona tu idioma preferido para la interfaz.",
+    "save_changes": "Guardar cambios",
+    "update_appearance": "Actualizar apariencia",
+    "appearance": {
+      "title": "Apariencia y Región",
+      "theme": "Tema de la aplicación",
+      "timezone": "Zona horaria",
+      "distance": "Unidad de distancia",
+      "temperature": "Unidad de temperatura"
+    },
+    "profile": {
+      "title": "Apariencia del perfil",
+      "banner": "Banner del perfil",
+      "banner_desc": "Recomendado 1500x500px. JPG, PNG hasta 10MB.",
+      "avatar": "Foto de perfil",
+      "avatar_desc": "PNG, JPG o GIF hasta 5MB.",
+      "upload_new": "Subir nueva",
+      "username": "Nombre de usuario (Apodo)",
+      "first_name": "Nombre",
+      "last_name": "Apellido",
+      "bio": "Biografía",
+      "bio_placeholder": "Cuéntanos sobre tu filosofía de viaje...",
+      "email": "Dirección de correo electrónico",
+      "google_connected": "Cuenta conectada a Google"
+    },
+    "travel": {
+      "title": "Contexto del planificador de viajes IA",
+      "subtitle": "Estos ajustes ayudan a nuestra IA a generar itinerarios perfectos y personalizados solo para ti.",
+      "companions": "Compañeros de viaje",
+      "style": "Estilo de viaje",
+      "pace": "Ritmo de viaje",
+      "currency": "Moneda preferida",
+      "dietary": "Restricciones dietéticas",
+      "dietary_placeholder": "ej. Vegetariano, Sin gluten, Vegano",
+      "accommodation": "Preferencia de alojamiento",
+      "accessibility": "Necesidades de accesibilidad (Opcional)",
+      "accessibility_placeholder": "ej. Acceso para sillas de ruedas, Evitar colinas empinadas",
+      "update_ai": "Actualizar preferencias de IA"
+    },
+    "support": {
+      "title_1": "¿Necesitas",
+      "title_2": "ayuda?",
+      "subtitle": "Nuestro equipo está listo para ayudarte a navegar tu próximo descubrimiento. Contáctanos en cualquier momento.",
+      "email_label": "Correo electrónico de soporte directo",
+      "email_copied": "¡Correo copiado!"
+    },
+    "notifications_settings": {
+      "title": "Notificaciones",
+      "email_title": "Notificaciones por correo electrónico",
+      "email_desc": "Recibe actualizaciones de viajes, itinerarios y recomendaciones de IA.",
+      "promo_title": "Correos promocionales",
+      "promo_desc": "Recibe ofertas especiales, consejos y noticias.",
+      "push_title": "Notificaciones Push",
+      "push_desc": "Recibe alertas instantáneas en tu dispositivo.",
+      "save": "Guardar notificaciones"
+    },
+    "privacy": {
+      "title": "Privacidad y Datos",
+      "ai_title": "Personalización IA",
+      "consent_title": "Ayuda a mejorar el Planificador de Viajes IA",
+      "consent_desc": "Doy mi consentimiento para que mis itinerarios de viaje sean completamente anonimizados y utilizados para entrenar y mejorar el modelo de IA de voyaz.app.",
+      "social_title": "Visibilidad Social",
+      "friends_title": "Mostrar lista de amigos en el perfil",
+      "friends_desc": "Permite que otros vean a las personas con las que eres amigo.",
+      "followers_title": "Mostrar lista de seguidores en el perfil",
+      "followers_desc": "Permite que otros vean a las personas que te siguen.",
+      "export_title": "Exportar tus datos",
+      "export_desc": "Descarga una copia de todos los ajustes de tu perfil, preferencias e itinerarios guardados en formato JSON.",
+      "export_button": "Solicitar exportación de datos",
+      "success_privacy": "Preferencias de privacidad actualizadas.",
+      "success_social": "Visibilidad social actualizada."
+    },
+    "security": {
+      "title": "Seguridad y Autenticación",
+      "google_title": "Conectado con Google",
+      "google_desc": "Sesión iniciada como {{email}}. Seguridad gestionada por Google.",
+      "google_manage": "Gestionar conexión",
+      "password_current": "Contraseña actual",
+      "password_new": "Nueva contraseña",
+      "password_confirm": "Confirmar nueva contraseña",
+      "password_update": "Actualizar contraseña",
+      "sessions_title": "Sesiones activas",
+      "sessions_desc": "Gestionar dispositivos con sesión iniciada.",
+      "sessions_current": "Actual",
+      "sessions_revoke": "Revocar",
+      "sessions_logout_all": "Cerrar sesión en todos los demás dispositivos",
+      "danger_zone": "Zona de peligro",
+      "delete_desc": "Eliminar permanentemente tu cuenta. Esto no se puede deshacer.",
+      "delete_confirm_text": "Escribe \"DELETE\" para confirmar.",
+      "delete_button": "Eliminar cuenta",
+      "delete_confirm_button": "Confirmar eliminación",
+      "cancel": "Cancelar"
+    },
+    "blocked": {
+      "title": "Usuarios bloqueados",
+      "desc": "Gestiona las cuentas que has bloqueado. Los usuarios bloqueados no pueden ver tu perfil ni tus viajes.",
+      "loading": "Cargando lista de bloqueados...",
+      "empty_title": "No hay usuarios bloqueados",
+      "empty_desc": "¡Todos son bienvenidos!",
+      "unblock": "Desbloquear",
+      "blocked_on": "Bloqueado el {{date}}"
+    }
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "loading_list": "Cargando lista..."
+  },
+  "social": {
+    "block_title": "Bloquear usuario",
+    "block_desc": "¿Estás seguro de que quieres bloquear a {{username}}? Esto también lo eliminará automáticamente de tus amigos y dejará de seguirlo. Esta acción no se puede deshacer.",
+    "block_confirm": "Bloquear usuario",
+    "report_title": "Reportar perfil",
+    "report_desc": "¿Por qué estás reportando este perfil?",
+    "report_placeholder": "Describe el problema...",
+    "report_submit": "Enviar reporte",
+    "list_empty": "Nadie aquí todavía",
+    "list_empty_desc": "¡Empieza a conectar!",
+    "travel_enthusiast": "Entusiasta de los viajes",
+    "unfriend": "Eliminar amigo",
+    "unfollow": "Dejar de seguir",
+    "notif_friend_request": "te envió una solicitud de amistad",
+    "notif_new_follower": "comenzó a seguirte",
+    "notif_friend_accept": "aceptó tu solicitud de amistad",
+    "notif_trip_shared": "compartió un viaje contigo",
+    "accept": "Aceptar",
+    "ignore": "Ignorar"
+  },
+  "constants": {
+    "styles": {
+      "backpacker": "Mochilero económico",
+      "comfort": "Confort y Cultura",
+      "luxury": "Resort de lujo",
+      "adventure": "Aventura y Naturaleza"
+    },
+    "paces": {
+      "relaxed": "Relajado (1-2 actividades/día)",
+      "moderate": "Moderado (3-4 actividades/día)",
+      "fast": "Rápido (Horario apretado)"
+    },
+    "companions": {
+      "solo": "Solo",
+      "couple": "Pareja",
+      "family": "Familia con niños",
+      "friends": "Grupo de amigos"
+    },
+    "accommodations": {
+      "hotels": "Hoteles",
+      "hostels": "Hostales",
+      "apartments": "Apartamentos / Airbnb",
+      "boutique": "Estancias Boutique"
+    },
+    "themes": {
+      "system": "Sistema",
+      "light": "Claro",
+      "dark": "Oscuro"
+    },
+    "distance": {
+      "km": "Kilómetros (km)",
+      "mi": "Millas (mi)"
+    },
+    "temp": {
+      "c": "Celsius (°C)",
+      "f": "Fahrenheit (°F)"
+    }
+  },
+  "onboarding": {
+    "welcome": "Bienvenido a VOYAZ",
+    "next": "Siguiente",
+    "back": "Atrás",
+    "skip": "Saltar",
+    "continue": "Continuar",
+    "finish": "Comenzar Viaje",
+    "step_label": "Paso",
+    "first_name": "Nombre",
+    "last_name": "Apellido",
+    "steps": {
+      "welcome": {
+        "title": "Bienvenido",
+        "desc": "Empecemos con tu identidad básica."
+      },
+      "profile": {
+        "title": "Perfil",
+        "desc": "Personaliza cómo te ven los demás.",
+        "username_label": "Nombre de Usuario",
+        "username_placeholder": "travel_guru",
+        "username_taken": "Ya ocupado.",
+        "username_available": "¡Disponible!",
+        "bio_label": "Biografía",
+        "bio_placeholder": "Filosofía de viaje..."
+      },
+      "travel": {
+        "title": "Estilo de Viaje",
+        "desc": "Cuéntanos tus hábitos de viaje."
+      },
+      "ai": {
+        "title": "Contexto IA",
+        "desc": "Ayuda a nuestra IA a planear el viaje perfecto.",
+        "dietary_label": "Restricciones Dietéticas",
+        "dietary_placeholder": "ej. Vegano",
+        "accommodation_label": "Alojamientos",
+        "accessibility_label": "Accesibilidad Especial",
+        "accessibility_placeholder": "ej. Ascensores"
+      },
+      "preferences": {
+        "title": "Preferencias",
+        "desc": "Configura tu entorno local.",
+        "companions_label": "Compañeros",
+        "currency_label": "Moneda",
+        "distance_label": "Unidad de Distancia",
+        "temperature_label": "Unidad de Temperatura"
+      },
+      "style": {
+        "style_label": "Estilo de Viaje",
+        "pace_label": "Ritmo"
+      }
+    }
+  },
+  "profile_view": {
+    "title": "Perfil",
+    "edit": "Editar perfil",
+    "tabs": {
+      "trips": "Viajes",
+      "world_map": "Mapa del mundo"
+    },
+    "trip": {
+      "days": "Días",
+      "places": "Lugares",
+      "by": "por",
+      "from": "desde"
+    }
+  },
+  "pricing": {
+    "title": "Precios",
+    "upgrade": "Actualizar a Pro",
+    "your_balance": "Tu saldo: {{credits}} Créditos",
+    "fuel_journey_1": "Impulsa tu próximo",
+    "fuel_journey_2": "viaje.",
+    "description": "Cada viaje personalizado por IA consume 1 crédito. Recarga tu saldo para viajes individuales o actualízate a PRO para posibilidades ilimitadas y funciones premium.",
+    "feature_1": "Personalización avanzada por IA",
+    "feature_2": "Mapas y guías offline",
+    "feature_3": "Sincronización de clima en tiempo real",
+    "feature_4": "Exportación a PDF y Calendario",
+    "pro_title": "Voyaz PRO",
+    "pro_subtitle": "Para el nómada verificado",
+    "per_month": "al mes",
+    "most_popular": "Más popular",
+    "pro_feature_1": "50 Créditos / mes",
+    "pro_feature_2": "Insignia PRO verificada",
+    "pro_feature_3": "Soporte prioritario",
+    "pro_feature_4": "Acceso anticipado a funciones",
+    "redirecting": "Redirigiendo...",
+    "upgrade_to_pro": "Actualizar a PRO",
+    "or": "o",
+    "custom_credits": "Créditos personalizados",
+    "custom_best_value": "¡Mejor valor! 1.0 PLN por crédito",
+    "custom_great_value": "¡Gran valor! 1.5 PLN por crédito",
+    "custom_standard_rate": "Tarifa estándar 1.9 PLN por crédito",
+    "one_time_payment": "Pago único",
+    "buy_credits": "Comprar {{credits}} Créditos",
+    "credits_short": "Créditos"
+  },
+  "notifications": {
+    "title": "Notificaciones",
+    "empty": "No hay notificaciones nuevas"
+  },
+  "user_menu": {
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "account": "Cuenta",
+    "profile": "Perfil",
+    "saved": "Guardado",
+    "settings": "Configuración",
+    "sign_out": "Cerrar sesión"
+  },
+  "plan_trip": {
+    "progress": {
+      "places": "Lugares",
+      "details": "Detalles",
+      "your_plan": "Tu plan"
+    },
+    "step1": {
+      "title_1": "Crea tu",
+      "title_2": "ruta",
+      "subtitle": "¿A dónde nos dirigimos esta vez? Añade puntos a tu mapa de ensueño.",
+      "start_date": "Fecha de inicio",
+      "end_date": "Fecha de finalización",
+      "destinations": "Destinos",
+      "days_planned": "días planeados",
+      "city_placeholder": "Introduce una ciudad...",
+      "days_short": "d",
+      "add_destination": "Añadir destino",
+      "error_days_match": "Los días planeados deben coincidir con el calendario ({{total}} días)",
+      "error_valid_cities": "Por favor, introduce nombres de ciudad válidos",
+      "next": "Siguiente a detalles"
+    },
+    "step2": {
+      "title_1": "Unos pocos",
+      "title_2": "detalles",
+      "subtitle": "Para el plan perfecto, necesitamos unos pocos detalles más.",
+      "budget_label": "Presupuesto por persona",
+      "must_see_label": "Lugares de interés",
+      "must_see_placeholder": "ej., Museo, calle específica...",
+      "notes_label": "Notas adicionales para la IA",
+      "notes_placeholder": "Describe tu estilo. ¿Te gusta un ritmo rápido y many visitas, o mañanas lentas en cafeterías?",
+      "generate_plan": "Magia IA – Generar plan"
+    },
+    "step3": {
+      "loading_map": "Cargando mapa Voyager...",
+      "your_journey": "Tu viaje",
+      "personalised_plan": "Plan personalizado",
+      "day": "DÍA",
+      "synthesizing": "Sintetizando motor Voyaz...",
+      "building_route": "Construyendo ruta logísticamente perfecta",
+      "selected_strategy": "Estrategia seleccionada",
+      "base_for_night": "Base para la noche",
+      "open_live_route": "Abrir ruta en vivo",
+      "save_changes": "Guardar cambios",
+      "refine_day": "Refinar este día..."
+    }
+  }
+}
